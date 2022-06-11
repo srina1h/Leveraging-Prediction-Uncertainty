@@ -1,0 +1,14 @@
+pandas
+numpy
+tensorflow==2.8.2
+keras==2.8.0
+sklearn=1.0.2
+matplotlib
+tensorflow_addons==0.17.0
+tensorflow_probability=0.16.0
+datetime
+tqdm
+gc
+re
+time
+scipy
